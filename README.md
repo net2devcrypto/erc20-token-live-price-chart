@@ -18,13 +18,42 @@ Click for video:
 
 <h3>Steps to practice</h3>
 
-<h4>Step 1</h4>
 
-- Create a new NextJS Project:
+1-Create a new NextJS app:
 
+```shell
+npx create-next-app chart
+```
 
+2- Install Dependencies:
 
+```shell
+cd chart
+npm i axios
+npm i chart.js react-chartjs-2
+```
 
+3- Replace all files and folders in your project with the ones attached to this repo.
 
+Add all files and folders to the root project directory "chart", overwrite when prompted.
 
+4- Update index.js adding your MongoDB API key in quotes:
+
+```shell
+const mongokey = "ENTER-YOUR-KEY"
+```
+
+ctrl+s to save
+
+** Reminder: The key is not protected using this method**
+
+** Just for educational, learning purposes**
+
+5- Start your application, navigate to the project page and enjoy!
+
+```shell
+npm run dev
+```
+
+Follow the video tutorial for explanations and guidance!
 
