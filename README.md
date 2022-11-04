@@ -18,6 +18,10 @@ Click for video:
 
 <h3>Steps to practice</h3>
 
+<h4>Step 1</h4>
+
+- Create a new NextJS Project:
+
 
 
 
