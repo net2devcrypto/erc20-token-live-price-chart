@@ -1,5 +1,5 @@
 # erc20-token-live-price-chart
-👑 An ERC-20 token price action chart in NextJS with MongoDB and ChartJS. This amazing token price action chart tutorial will display a live token price action chart with your custom ERC20 token pair on a liquidity pool like Uniswap!!
+👑 An ERC-20 token price action chart in NextJS with MongoDB and ChartJS. This amazing token price action chart video tutorial will display a live token price action chart with your custom ERC20 token pair on a liquidity pool like Uniswap!!
 
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS/blob/main/pics/nftbridge3.png" width="260" height="100"><h2>NFT Bridge with NextJS and EthersJS</h2></a>
 ##
