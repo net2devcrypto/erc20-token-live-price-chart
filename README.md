@@ -16,7 +16,7 @@ Click for video:
 
 <a href="" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
-<h4>Steps to practice</h4>
+<h3>Steps to practice</h3>
 
 
 
