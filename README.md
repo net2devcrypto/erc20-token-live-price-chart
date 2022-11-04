@@ -16,7 +16,15 @@ Click for video:
 
 <a href="" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
-<h3>Steps to practice</h3>
+* You need a MongoDB demo account and API Key to enable this project *
+
+Follow this tutorial to get started in MongoDB fast:
+
+https://www.youtube.com/watch?v=lbAp42VM8a0&t=256s
+
+
+
+<h3>Steps to use this Repo</h3>
 
 
 1-Create a new NextJS app:
@@ -37,7 +45,7 @@ npm i chart.js react-chartjs-2
 
 Add all files and folders to the root project directory "chart", overwrite when prompted.
 
-4- Update index.js adding your MongoDB API key in quotes:
+4- Update index.js adding your MongoDB Atlas API key in quotes:
 
 ```shell
 const mongokey = "ENTER-YOUR-KEY"
