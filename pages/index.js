@@ -13,8 +13,7 @@ export default function Home() {
   const [timeaction, getTime] = useState([])
 
 
-  const mongokey = process.env.MONGO_API;
-  require('dotenv').config();
+  const mongokey = "ENTER-YOUR-KEY";
 
   useEffect(() => {
     const updateChart = setInterval(() => {
