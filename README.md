@@ -3,7 +3,7 @@
 
 <div class=row>
 <img src="https://github.com/net2devcrypto/0x-Protocol-DeFI-Swap-NextJS/blob/main/public/0xpicw.png" width="250" height="100">
-<img src="https://github.com/net2devcrypto/misc/blob/main/MongoDB_Logo.svg.png" width="250" height="100">
+<img src="https://github.com/net2devcrypto/misc/blob/main/MongoDB_Logo.svg.png" width="250" height="90">
  </div>
 
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/chart.png" width="750" height="500"></a>
