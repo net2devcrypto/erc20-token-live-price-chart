@@ -37,7 +37,7 @@ npx create-next-app chart
 
 ```shell
 cd chart
-npm i axios
+npm i axios qs
 npm i chart.js react-chartjs-2
 ```
 
